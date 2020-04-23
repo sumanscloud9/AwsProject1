@@ -1,2 +1,3 @@
-# AwsProject1
-Sample Java project 
+# maven-project
+
+Simple Maven Project
